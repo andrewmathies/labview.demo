@@ -14,7 +14,6 @@
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Add.vi" Type="VI" URL="../Add.vi"/>
-		<Item Name="AVeryComplexVI.vi" Type="VI" URL="../AVeryComplexVI.vi"/>
 		<Item Name="Subtract.vi" Type="VI" URL="../Subtract.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
